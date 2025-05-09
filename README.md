@@ -30,7 +30,7 @@ I’m an analytical mind with a passion for data and machine learning. I grow th
 | [📊 Fraud Detection - Anti-fraud Model](#) | Classifying transactions as legitimate/suspicious, risk feature analysis and precision/recall evaluation | `Python`, `scikit-learn`, `Pandas` |
 | [🧠 NLP Assistant Prompt Tuning](#) | Prompt engineering for LLM models (ChatGPT, Claude), fine-tuning on user-specific data | `Python`, `transformers`, `OpenAI API` |
 | [🧰 Occupational Health & Safety (OHS) Elements Detection Model](#) | Developed a real-time object detection model using YOLOv10 to identify and classify technical components in OHS environments. The model was trained using TensorFlow and optimized for deployment on edge devices. | `Python`, `TensorFlow`, `YOLOv10`, `OpenCV`, `Albumentations` |
-| [💻 ft_irc42 - C Project](#) | IRC client implemented in C as part of a school project | `C` |
+| [💻 ft_irc42 - C++ Project](#) | IRC server implemented in C++ as part of a school project | `C++` |
 | [🔲 Fractol - C Project](#) | Generating fractals in C | `C` |
 | [📦 Pushswap - C Project](#) | Implementing sorting algorithms in C as part of a school project | `C` |
 | [📄 Drone Flight Report PDF Generator](#) | Generating PDF reports from drone telemetry data | `Python`, `Pandas`, `ReportLab` |
