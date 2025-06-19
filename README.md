@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tomasz Rosiński
 
-🎯 Junior Data Scientist | 🧠 Machine Learning & NLP | 🔍 Anti-Financial Crime (KYC/AML) | 🇵🇱 🇩🇪 🇬🇧
+🎯 Data Scientist | 🧠 Machine Learning & NLP | 🔍 Anti-Financial Crime (KYC/AML) | 🇵🇱 🇩🇪 🇬🇧
 
 I'm an analytical mind with a passion for data and machine learning. I grow through both commercial and educational projects, combining technology with practical applications – from computer vision, through language models, to financial data analysis.
 
