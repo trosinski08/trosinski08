@@ -48,14 +48,13 @@ I'm an analytical mind with a passion for data and machine learning. I grow thro
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [📊 CLV predictor - Customer Life Time estimation model](https://github.com/trosinski08/CLV_preditor) | Model and analysis tools for estimating customer lifetime value | `Python`, `Pandas`, `scikit-learn` |
 | [📊 Fraud Detection - Anti-fraud Model](https://github.com/trosinski08/fraud-detection) | Classifying transactions as legitimate/suspicious, risk feature analysis, and precision/recall evaluation | `Python`, `scikit-learn`, `Pandas` |
 | [🧠 NLP Assistant Prompt Tuning](https://github.com/trosinski08/nlp-assistant) | Prompt engineering for LLM models (ChatGPT, Claude), fine-tuning on user-specific data | `Python`, `transformers`, `OpenAI API` |
 | [🧰 OHS Elements Detection Model](https://github.com/trosinski08/ohs-detection) | Developed a real-time object detection model using YOLOv10 to identify and classify technical components in OHS environments. The model was trained using TensorFlow and optimized for deployment on edge devices. | `Python`, `TensorFlow`, `YOLOv10`, `OpenCV`, `Albumentations` |
 | [👚 Upcycling Clothing Store Website](https://github.com/trosinski08/loopstore) | E-commerce website project focused on upcycling fashion | `TypeScript`, `Next.js`, `Django`, `PostgreSQL` |
 | [🔲 Fractol - C Project](https://github.com/trosinski08/fractol) | Generating fractals in C | `C` |
-| [💻 ft_irc42 - C++ Project](https://github.com/trosinski08/ft_irc42) | IRC server implemented in C++ as part of a school project | `C++` |
 | [📄 Drone Flight Report PDF Generator](https://github.com/trosinski08/drone-reports) | Generating PDF reports from drone telemetry data | `Python`, `Pandas`, `ReportLab` |
-| [📦 Pushswap - C Project](https://github.com/trosinski08/push_swap) | Implementing sorting algorithms in C as part of a school project | `C` |
 
 ---
 
