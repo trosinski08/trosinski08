@@ -104,9 +104,9 @@ I'm a **Data Scientist** and **Machine Learning Engineer** with a passion for so
 
 </div>
 
-### 📅 Contribution Activity
 
-<div align="center">
+
+<!-- <div align="center">### 📅 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trosinski08&theme=tokyo-night&hide_border=true&area=true)
 
@@ -114,7 +114,7 @@ I'm a **Data Scientist** and **Machine Learning Engineer** with a passion for so
 
 <details>
 <summary>📋 <strong>Additional GitHub Metrics</strong></summary>
-<br>
+<br> -->
 
 <div align="center">
 
