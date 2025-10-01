@@ -116,10 +116,10 @@ I'm a **Data Scientist** and **Machine Learning Engineer** with a passion for so
 <summary>📋 <strong>Additional GitHub Metrics</strong></summary>
 <br> -->
 
-<div align="center">
+<!-- <div align="center">
 
 **🏆 GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=trosinski08&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=trosinski08&theme=tokyonight&no-frame=true&row=1&column=6) -->
 
 **⚡ Recent Activity**
 <!--START_SECTION:activity-->
