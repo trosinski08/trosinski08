@@ -48,7 +48,7 @@ I'm an analytical mind with a passion for data and machine learning. I grow thro
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [📊 Fraud Detection - Anti-fraud Model](https://github.com/trosinski08/fraud-detection) | Classifying transactions as legitimate/suspicious, risk feature analysis and precision/recall evaluation | `Python`, `scikit-learn`, `Pandas` |
+| [📊 Fraud Detection - Anti-fraud Model](https://github.com/trosinski08/fraud-detection) | Classifying transactions as legitimate/suspicious, risk feature analysis, and precision/recall evaluation | `Python`, `scikit-learn`, `Pandas` |
 | [🧠 NLP Assistant Prompt Tuning](https://github.com/trosinski08/nlp-assistant) | Prompt engineering for LLM models (ChatGPT, Claude), fine-tuning on user-specific data | `Python`, `transformers`, `OpenAI API` |
 | [🧰 OHS Elements Detection Model](https://github.com/trosinski08/ohs-detection) | Developed a real-time object detection model using YOLOv10 to identify and classify technical components in OHS environments. The model was trained using TensorFlow and optimized for deployment on edge devices. | `Python`, `TensorFlow`, `YOLOv10`, `OpenCV`, `Albumentations` |
 | [👚 Upcycling Clothing Store Website](https://github.com/trosinski08/loopstore) | E-commerce website project focused on upcycling fashion | `TypeScript`, `Next.js`, `Django`, `PostgreSQL` |
