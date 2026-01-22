@@ -8,12 +8,12 @@ import argparse
 import os
 import re
 from datetime import datetime
-from typing import Optional
+from typing import List, Optional
 
 import requests
 
 
-def get_recent_activity(username: str, token: Optional[str], limit: int = 5) -> list[str]:
+def get_recent_activity(username: str, token: Optional[str], limit: int = 5) -> List[str]:
     """
     Fetch recent GitHub activity for a user
     
@@ -40,7 +40,7 @@ def get_recent_activity(username: str, token: Optional[str], limit: int = 5) -> 
         print(f"Error fetching GitHub activity: {e}")
         return []
     
-    activities = []
+    activities: List[str] = []
     
     for event in events[:limit]:
         event_type = event.get("type", "")
@@ -56,6 +56,7 @@ def get_recent_activity(username: str, token: Optional[str], limit: int = 5) -> 
             formatted_date = created_at
         
         # Build activity description
+        activity = ""
         if event_type == "PushEvent":
             commits = payload.get("commits", [])
             commit_count = len(commits)
@@ -103,7 +104,7 @@ def get_recent_activity(username: str, token: Optional[str], limit: int = 5) -> 
     return activities
 
 
-def update_readme(file_path: str, activities: list[str]) -> bool:
+def update_readme(file_path: str, activities: List[str]) -> bool:
     """
     Update README file with recent activity section
     
