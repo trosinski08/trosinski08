@@ -58,6 +58,28 @@
 - ✅ NLP for Document Analysis
 
 </td>
+<td width="50%">
+
+#### 🏛️ [ft_transcendence](https://github.com/trosinski08/ft_transcendence_42)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Full-stack web application with authentication, real-time features, and containerized deployment.
+
+**Impact:** Production-ready web platform
+
+</td>
+<td width="50%">
+
+#### 🏛️ [ft_transcendence](https://github.com/trosinski08/ft_transcendence_42)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Full-stack web application with authentication, real-time features, and containerized deployment.
+
+**Impact:** Production-ready web platform
+
+</td>
 </tr>
 </table>
 
@@ -172,18 +194,7 @@
 <tr>
 <td width="50%">
 
-#### 🔍 [Fraud Detection System](https://github.com/trosinski08/fraud-detection)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-Advanced ML model for real-time fraud detection with **95%+ accuracy**. Features risk analysis, precision/recall optimization, and automated alerting system.
-
-**Impact:** Reduced false positives by 40%
-
-</td>
-<td width="50%">
-
-#### 💰 [Customer Lifetime Value Predictor](https://github.com/trosinski08/CLV_preditor)
+#### � [Customer Lifetime Value Predictor](https://github.com/trosinski08/CLV_preditor)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 
@@ -192,28 +203,39 @@ Comprehensive CLV estimation model with advanced analytics tools for customer se
 **Impact:** Improved marketing ROI by 25%
 
 </td>
+<td width="50%">
+
+#### 🎨 [Fractol Generator](https://github.com/trosinski08/fractol)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+Mathematical fractal visualization engine in C with interactive graphics and real-time rendering.
+
+**Impact:** Advanced visualization techniques
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
-#### � [NLP Assistant](https://github.com/trosinski08/nlp-assistant)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-yellow?style=flat-square)
+#### 🏪 [Upcycling Store](https://github.com/trosinski08/loopstore)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-Prompt engineering and fine-tuning for LLM models (ChatGPT, Claude) with custom training on domain-specific data.
+E-commerce platform for sustainable fashion with full-stack implementation. Features product catalog, shopping cart, and secure payment integration.
 
-**Impact:** 60% reduction in processing time
+**Impact:** Sustainable fashion marketplace in action
 
 </td>
 <td width="50%">
 
-#### 🛡️ [OHS Safety Detection](https://github.com/trosinski08/ohs-detection)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![YOLOv10](https://img.shields.io/badge/YOLOv10-00FFFF?style=flat-square)
+#### 🏛️ [ft_transcendence](https://github.com/trosinski08/ft_transcendence_42)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Real-time object detection for workplace safety using YOLOv10. Optimized for edge devices with 98% detection accuracy.
+Full-stack web application with authentication, real-time features, and containerized deployment.
 
-**Impact:** Enhanced workplace safety monitoring
+**Impact:** Production-ready web platform
 
 </td>
 </tr>
@@ -225,9 +247,9 @@ Real-time object detection for workplace safety using YOLOv10. Optimized for edg
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [�️ Upcycling Store](https://github.com/trosinski08/loopstore) | E-commerce platform for sustainable fashion | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | 🚀 Active |
-| [🎨 Fractol Generator](https://github.com/trosinski08/fractol) | Mathematical fractal visualization in C | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ✅ Complete |
-| [� Drone Analytics](https://github.com/trosinski08/drone-reports) | PDF report generation from telemetry data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-green?style=flat-square) | ✅ Complete |
+| [🤖 AI Agent Compliance](https://github.com/trosinski08/ai_agent_compliance) | Compliance framework for AI agents | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ✅ Complete |
+| [💰 Investment Analyzer](https://github.com/trosinski08/Invest_AP) | Financial investment analysis tool | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ✅ Complete |
+| [🔧 Pipex42](https://github.com/trosinski08/pipex42) | Command-line pipe execution utility | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ✅ Complete |
 
 </details>
 

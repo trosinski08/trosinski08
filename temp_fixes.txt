@@ -1,0 +1,1 @@
+# Zamiast zmieniać plik bezpośrednio, stworzę nowy plik README

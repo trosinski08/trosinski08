@@ -23,12 +23,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python scripts/update_activity.py --user trosinski08 --file "# 👋 Hi, I'm Tomasz Rosiński.md" --limit 5
+          python scripts/update_activity.py --user trosinski08 --file README.md --limit 5
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "# 👋 Hi, I'm Tomasz Rosiński.md"
+          git add README.md
           git commit -m "chore: update recent activity" || echo "No changes to commit"
           git push origin HEAD:main || echo "Push failed - ensure repo has main branch"
 
