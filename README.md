@@ -94,9 +94,9 @@
 
 | Repository | Description | Updated |
 |------------|-------------|---------|
-| [ohs-detection](https://github.com/trosinski08/ohs-detection) | YOLOv10 PPE/OHS safety detection — modular, class-based | Apr 2026 |
+| [ai_agent_compliance](https://github.com/trosinski08/ai_agent_compliance) | AI agent framework for AML/KYC compliance automation | May 2026 |
+| [ohs-detection](https://github.com/trosinski08/ohs-detection) | YOLOv10 PPE/OHS safety detection — modular, class-based | May 2026 |
 | [ft_transcendence_42](https://github.com/trosinski08/ft_transcendence_42) | SPA TypeScript Pong — real-time multiplayer, Docker, nginx | Apr 2026 |
-| [ppe-detection-legacy](https://github.com/trosinski08/ppe-detection-legacy) | Archived monolithic PPE scripts — superseded by ohs-detection | Apr 2026 |
 | [loopstore](https://github.com/trosinski08/loopstore) | Full-stack upcycling e-commerce — Next.js 15 + Django REST | Apr 2026 |
 | [pdf_report_generator](https://github.com/trosinski08/pdf_report_generator) | Automated PDF reports from drone video telemetry (KLV) | Apr 2026 |
 | [Invest_AP](https://github.com/trosinski08/Invest_AP) | Financial investment analysis and portfolio tracking | Apr 2026 |
