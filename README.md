@@ -94,8 +94,16 @@ Systems programming and algorithms from **42 Heilbronn**: containerization funda
 
 ## 📊 Recent Activity
 
-- **PublicEvent** on [trosinski08/ft_transcendence_42](https://github.com/trosinski08/ft_transcendence_42) on Sep 14, 2025
-- **Pushed 0 commit(s)** to [trosinski08/loopstore](https://github.com/trosinski08/loopstore) on Aug 18, 2026
+*Auto-updated 2026-08-20 21:23 UTC*
+
+| Repository | Description | Last push |
+|---|---|---|
+| [trosinski08](https://github.com/trosinski08/trosinski08) |  | Aug 2026 |
+| [ft_transcendence_42](https://github.com/trosinski08/ft_transcendence_42) | Frontend for ft_transcendence (clean history), SPA TypeScript Pong | Aug 2026 |
+| [Invest_AP](https://github.com/trosinski08/Invest_AP) |  | Aug 2026 |
+| [SureBetHunter](https://github.com/trosinski08/SureBetHunter) | FastAPI surebet detector — arbitrage opportunities across bookmakers, Google She | Aug 2026 |
+| [loopstore](https://github.com/trosinski08/loopstore) |  | Aug 2026 |
+| [ai_agent_compliance](https://github.com/trosinski08/ai_agent_compliance) |  | Jul 2026 |
 
 
 ## 📫 Contact
