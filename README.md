@@ -88,10 +88,6 @@ Systems programming and algorithms from **42 Heilbronn**: containerization funda
 
 <img src="https://streak-stats.demolab.com/?user=trosinski08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trosinski08&theme=tokyonight" alt="Top Languages by Repo" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trosinski08&theme=tokyonight" alt="Top Languages by Commit" />
-
 </div>
 
 ---
