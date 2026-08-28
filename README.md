@@ -94,14 +94,14 @@ Systems programming and algorithms from **42 Heilbronn**: containerization funda
 
 ## 📊 Recent Activity
 
-*Auto-updated 2026-08-28 10:34 UTC*
+*Auto-updated 2026-08-28 20:07 UTC*
 
 | Repository | Description | Last push |
 |---|---|---|
-| [trosinski08](https://github.com/trosinski08/trosinski08) | AI Automation Developer · Python · FastAPI · OpenAI · AWS · Gdańsk | Aug 2026 |
-| [ft_transcendence_42](https://github.com/trosinski08/ft_transcendence_42) | Frontend for ft_transcendence (clean history), SPA TypeScript Pong | Aug 2026 |
-| [Invest_AP](https://github.com/trosinski08/Invest_AP) | Autonomous AI trading agent (GPT-4o-mini) with Pydantic v2 decision validation,  | Aug 2026 |
-| [SureBetHunter](https://github.com/trosinski08/SureBetHunter) | FastAPI surebet detector — arbitrage opportunities across bookmakers, Google She | Aug 2026 |
+| [industry40-ml](https://github.com/trosinski08/industry40-ml) | Industry 4.0 predictive ML: regression models for fiber optic sensor characteris | Aug 2026 |
+| [pose-classification](https://github.com/trosinski08/pose-classification) | Real-time body pose classifier for workplace safety: MediaPipe BlazePose + k-NN, | Aug 2026 |
+| [nlp-projects](https://github.com/trosinski08/nlp-projects) | NLP authorship attribution: TF-IDF + stylometric features (spaCy), 96% accuracy  | Aug 2026 |
+| [ai_agent_compliance](https://github.com/trosinski08/ai_agent_compliance) | Local RAG system for AML/KYC case analysis. Indexes Polish AML legislation (Usta | Aug 2026 |
 | [loopstore](https://github.com/trosinski08/loopstore) | Full-stack e-commerce platform for upcycled clothing. Next.js frontend, Django R | Aug 2026 |
 
 
