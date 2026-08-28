@@ -94,16 +94,15 @@ Systems programming and algorithms from **42 Heilbronn**: containerization funda
 
 ## 📊 Recent Activity
 
-*Auto-updated 2026-08-20 21:23 UTC*
+*Auto-updated 2026-08-28 10:34 UTC*
 
 | Repository | Description | Last push |
 |---|---|---|
-| [trosinski08](https://github.com/trosinski08/trosinski08) |  | Aug 2026 |
+| [trosinski08](https://github.com/trosinski08/trosinski08) | AI Automation Developer · Python · FastAPI · OpenAI · AWS · Gdańsk | Aug 2026 |
 | [ft_transcendence_42](https://github.com/trosinski08/ft_transcendence_42) | Frontend for ft_transcendence (clean history), SPA TypeScript Pong | Aug 2026 |
-| [Invest_AP](https://github.com/trosinski08/Invest_AP) |  | Aug 2026 |
+| [Invest_AP](https://github.com/trosinski08/Invest_AP) | Autonomous AI trading agent (GPT-4o-mini) with Pydantic v2 decision validation,  | Aug 2026 |
 | [SureBetHunter](https://github.com/trosinski08/SureBetHunter) | FastAPI surebet detector — arbitrage opportunities across bookmakers, Google She | Aug 2026 |
-| [loopstore](https://github.com/trosinski08/loopstore) |  | Aug 2026 |
-| [ai_agent_compliance](https://github.com/trosinski08/ai_agent_compliance) |  | Jul 2026 |
+| [loopstore](https://github.com/trosinski08/loopstore) | Full-stack e-commerce platform for upcycled clothing. Next.js frontend, Django R | Aug 2026 |
 
 
 ## 📫 Contact
