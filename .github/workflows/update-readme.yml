@@ -8,12 +8,14 @@ on:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # required to push the updated README
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
 
